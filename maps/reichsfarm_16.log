@@ -1,0 +1,83 @@
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_16.vmf
+Map revision 223
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_A, using default
+Material not found!: MAPS/SINJAR/SIN_BLEND_SAND_ROAD_01
+Can't find surfaceprop fabric for material MAPS/TRIM/CAMO_NETTING_01, using default
+Material not found!: MAPS/MOGADISHU/MOG_ROAD_NJ_02
+Material not found!: MAPS/MOGADISHU/MOG_BLEND_SANDTORUBBLE_NJ_01
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "brick/hr_brick/inferno/brick_a2"!
+Can't find surfaceprop stucco for material GG_TIBET/CS_TIBET_PLASTER_01, using default
+Patching WVT material: maps/reichsfarm_16/maps/reichsfarm/ger_blend_mudgrass_01_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/afghanistan/afg_blendwall_03b_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/afghanistan/afg_blendwall_03_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/reichsfarm/ger_blend_sandgrass_01_wvt_patch
+Patching WVT material: maps/reichsfarm_16/foy/walls/blend_plaster_brick_05_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/terrain/blend_rubble02_tiles03_ir_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/afghanistan/afg_blendwall_01b_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/afghanistan/afg_blendwall_01_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/brick/sic_brick_blend_02_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/brick/sic_brick_blend_01_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/brick/sic_brick_blend_05_wvt_patch
+Patching WVT material: maps/reichsfarm_16/stone/infflrd_blend_dirt_wvt_patch
+Patching WVT material: maps/reichsfarm_16/brick/hr_brick/inferno/brick_g1_blend_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/roof/roof_moss_blend_02_wvt_patch
+Patching WVT material: maps/reichsfarm_16/maps/roof/roof_moss_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1652 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (2)
+writing d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_16.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: -4228.000000 4081.155273 6835.035156
+Displacement B: Location: -4412.000000 4081.155273 210.000000
+Warning: overflowed 20 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (4) (862688 bytes)
+Error! prop_static using model "models/props_c17/tools_pliers01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/tools_pliers01a.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_bench_b.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_rugs_l.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_rugs_b.mdl"!
+Error loading studio model "models/foliage/tree300large.mdl"!
+Error loading studio model "models/vehicles/pickup_truck_ropen.mdl"!
+Error loading studio model "models/siege/prop_plasticchair.mdl"!
+Error loading studio model "models/generic/air_conditioner_mino.mdl"!
+Error loading studio model "models/props_foliage/onyxtree/ethrinia_indica/tree2.mdl"!
+Error loading studio model "models/vehicles/minibus.mdl"!
+Error loading studio model "models/generic/ir_trashbags_01.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_dresser.mdl"!
+Error loading studio model "models/vehicles/abrams_tub.mdl"!
+Error loading studio model "models/vehicles/abrams_turret_02.mdl"!
+Error loading studio model "models/static_furniture/seat_pillow.mdl"!
+Error loading studio model "models/static_fittings/work_light.mdl"!
+Error loading studio model "models/siege/prop_wallfan_r.mdl"!
+Error loading studio model "models/siege/prop_wallfan_l.mdl"!
+Error loading studio model "models/physics_props/electronics/boombox_03.mdl"!
+Error loading studio model "models/vehicles/humvee_destroyed.mdl"!
+Error loading studio model "models/vehicles/minibus_burned.mdl"!
+Error loading studio model "models/vehicles/uh_60_wreck_rear.mdl"!
+Error loading studio model "models/vehicles/uh_60_wreck_front.mdl"!
+Placing detail props : 0...1...2...3...4...5
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 19427 texinfos to 5126
+Reduced 208 texdatas to 170 (8241 bytes to 6614)
+Writing d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_16.bsp
+15 seconds elapsed

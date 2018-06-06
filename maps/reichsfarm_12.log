@@ -1,0 +1,215 @@
+
+
+
+materialPath: C:\Games\steamapps\common\dayofinfamy\doi\materials
+Loading d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_12.vmf
+Map revision 143
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_A, using default
+Material not found!: MAPS/SINJAR/SIN_BLEND_SAND_ROAD_01
+Can't find surfaceprop fabric for material MAPS/TRIM/CAMO_NETTING_01, using default
+Material not found!: MAPS/MOGADISHU/MOG_ROAD_NJ_02
+Material not found!: MAPS/MOGADISHU/MOG_BLEND_SANDTORUBBLE_NJ_01
+ConVarRef gpu_level doesn't point to an existing ConVar
+Error! Variable "$surfaceprop" is multiply defined in material "brick/hr_brick/inferno/brick_a2"!
+Can't find surfaceprop stucco for material GG_TIBET/CS_TIBET_PLASTER_01, using default
+Patching WVT material: maps/reichsfarm_12/terrain/fr_blend_mud_sandgrass_02_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/afghanistan/afg_blendwall_03b_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/afghanistan/afg_blendwall_03_wvt_patch
+Patching WVT material: maps/reichsfarm_12/terrain/it_blend_sandgrass_sand_01_wvt_patch
+Patching WVT material: maps/reichsfarm_12/foy/walls/blend_plaster_brick_05_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/terrain/blend_rubble02_tiles03_ir_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/afghanistan/afg_blendwall_01b_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/afghanistan/afg_blendwall_01_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/brick/sic_brick_blend_02_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/brick/sic_brick_blend_01_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/brick/sic_brick_blend_05_wvt_patch
+Patching WVT material: maps/reichsfarm_12/stone/infflrd_blend_dirt_wvt_patch
+Patching WVT material: maps/reichsfarm_12/brick/hr_brick/inferno/brick_g1_blend_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/roof/roof_moss_blend_02_wvt_patch
+Patching WVT material: maps/reichsfarm_12/maps/roof/roof_moss_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1658 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_12.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: -4228.000000 4081.155273 218.000000
+Displacement B: Location: -4412.000000 4081.155273 210.000000
+Warning: overflowed 20 displacement corner-neighbor lists.Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (809149 bytes)
+Error! To use model "models/wot/vehicles/american/m4a1 sherman.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/wot/vehicles/american/m4a1 sherman.mdl"!
+Error! To use model "models/wot/vehicles/american/m4a1(76)w turret.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/wot/vehicles/american/m4a1(76)w turret.mdl"!
+Error! To use model "models/wot/vehicles/american/m4 kangaroo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/wot/vehicles/american/m4 kangaroo.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_bench_b.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_rugs_a.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_rugs_l.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_rugs_b.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_rugs_h.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_rugs_m.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_rugs_g.mdl"!
+Error loading studio model "models/static_furniture/prop_furniture_dresser.mdl"!
+Error loading studio model "models/foliage/tree300large.mdl"!
+Error loading studio model "models/vehicles/pickup_truck_ropen.mdl"!
+Error loading studio model "models/siege/prop_plasticchair.mdl"!
+Error loading studio model "models/generic/air_conditioner_mino.mdl"!
+Error loading studio model "models/props_foliage/onyxtree/ethrinia_indica/tree2.mdl"!
+Error loading studio model "models/vehicles/minibus.mdl"!
+Error loading studio model "models/generic/ir_trashbags_01.mdl"!
+Error loading studio model "models/static_props/generator.mdl"!
+Error loading studio model "models/generic/ammocrate2.mdl"!
+Error loading studio model "models/generic/pallets_mino.mdl"!
+Error loading studio model "models/generic/ammocrate3.mdl"!
+Error loading studio model "models/generic/ammocrate1.mdl"!
+Error loading studio model "models/static_props/rug_01.mdl"!
+Error loading studio model "models/static_fittings/work_light.mdl"!
+Error loading studio model "models/static_fittings/work_light_lamps.mdl"!
+Error loading studio model "models/siege/prop_garagetools4.mdl"!
+Error loading studio model "models/vehicles/abrams_tub.mdl"!
+Error loading studio model "models/vehicles/abrams_turret_02.mdl"!
+Error loading studio model "models/static_furniture/seat_pillow.mdl"!
+Error loading studio model "models/siege/prop_wallfan_r.mdl"!
+Error loading studio model "models/siege/prop_wallfan_l.mdl"!
+Error loading studio model "models/physics_props/electronics/boombox_03.mdl"!
+Error loading studio model "models/vehicles/humvee_destroyed.mdl"!
+Error loading studio model "models/vehicles/minibus_burned.mdl"!
+Error loading studio model "models/vehicles/abrams_turret_burned.mdl"!
+Error loading studio model "models/vehicles/uh_60_wreck_center.mdl"!
+Error loading studio model "models/vehicles/uh_60_wreck_rear.mdl"!
+Error loading studio model "models/vehicles/uh_60_wreck_front.mdl"!
+Error loading studio model "models/vehicles/abrams_tub_burned.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18833 texinfos to 5001
+Reduced 196 texdatas to 158 (7867 bytes to 6248)
+Writing d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_12.bsp
+13 seconds elapsed
+
+
+
+12 threads
+reading d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_12.bsp
+reading d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_12.prt
+ 786 portalclusters
+2262 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 12800 visible clusters (0.00%)
+Total clusters visible: 475812
+Average clusters visible: 605
+Building PAS...
+Average clusters audible: 781
+visdatasize:154830  compressed from 163488
+writing d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_12.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_12.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+13832 faces
+3 degenerate faces
+5708385 square feet [822007424.00 square inches]
+6530 Displacements
+1114464 Square Feet [160482832.00 Square Inches]
+13829 patches before subdivision
+105321 patches after subdivision
+129 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12735152, max 2741
+transfer lists:  97.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(108449, 59315, 38757)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(10831, 5101, 2329)
+Build Patch/Sample Hash Table(s).....Done<0.0679 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  15/1024          720/49152    ( 1.5%) 
+brushes               2187/8192        26244/98304    (26.7%) 
+brushsides           18413/65536      147304/524288   (28.1%) 
+planes               34718/65536      694360/1310720  (53.0%) 
+vertexes             20812/65536      249744/786432   (31.8%) 
+nodes                 2684/65536       85888/2097152  ( 4.1%) 
+texinfos              5001/12288      360072/884736   (40.7%) 
+texdata                158/2048         5056/65536    ( 7.7%) 
+dispinfos             6530/0         1149280/0        ( 0.0%) 
+disp_verts          214490/0         4289800/0        ( 0.0%) 
+disp_tris           296800/0          593600/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples     3258152/0         3258152/0        ( 0.0%) 
+faces                13832/65536      774592/3670016  (21.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12344/65536      691264/3670016  (18.8%) 
+facebrushes            833/0            1666/0        ( 0.0%) 
+facebrushlists       13832/0           55328/0        ( 0.0%) 
+leaves                2700/65536       86400/2097152  ( 4.1%) 
+leaffaces             8373/65536       16746/131072   (12.8%) 
+leafbrushes           3872/65536        7744/131072   ( 5.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges           110791/512000     443164/2048000  (21.6%) 
+edges                67953/256000     271812/1024000  (26.5%) 
+LDR worldlights        129/8192        12900/819200   ( 1.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            898/32768        8980/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18693/65536       37386/131072   (28.5%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays               253/1024        89056/360448   (24.7%) 
+LDR lightdata         [variable]    21080496/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      154830/16777216 ( 0.9%) 
+entdata               [variable]      205215/393216   (52.2%) 
+LDR ambient table     2700/65536       10800/262144   ( 4.1%) 
+HDR ambient table     2700/65536       10800/262144   ( 4.1%) 
+LDR leaf ambient     10564/65536      295792/1835008  (16.1%) 
+HDR leaf ambient      2700/65536       75600/1835008  ( 4.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/135124   ( 0.0%) 
+pakfile               [variable]       35099/0        ( 0.0%) 
+physics               [variable]      809149/4194304  (19.3%) 
+physics terrain       [variable]      892076/1048576  (85.1%) VERY FULL!
+
+Level flags = 4
+
+Total triangle count: 33758
+Writing d:\sourceengine\dayofinfamy\mapsrc\reichsfarm\maps\reichsfarm_12.bsp
+8 minutes, 42 seconds elapsed

@@ -1,0 +1,18 @@
+"WorldVertexTransition"
+{	
+	"$basetexture" 	"maps/revolt/rev_sand_01"
+	"$bumpmap" 		"maps/Mogadishu/Mog_Sand_01_wet_n"
+	 "$surfaceprop" 	"sand"
+	 
+	"$baseTexture2" "maps/terrain/peak_soil_04"
+	"$bumpmap2"	"maps/terrain/peak_soil_02_normal"
+	"$surfaceprop2" "grass"
+	"$detail2"             		  "nature/hr_c/hr_grass_001_detail"
+	"$detailscale2"      	                  ".15"
+	"$detailblendfacto2r"  	  "1.0"
+	
+	"$blendmodulatetexture""de_mirage/base/base_blend1_diffuse"
+
+	"%keywords" "ins2,blend,bump" 
+	"%detailtype" "grass_germany"
+}
