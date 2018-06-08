@@ -1,0 +1,9 @@
+"doi_reichsfarm"
+{
+	material	overviews/doi_reichsfarm      // texture file
+	pos_x		"-5346"				// X coordinate
+	pos_y		"6085"					// Y coordinate
+	scale		"11.00" 				// scale used when taking the screenshot
+	rotate		"0"						// map was rotated by 90 degrees in image editor
+	zoom		1						// optimal zoom factor if map is shown in full size
+}
