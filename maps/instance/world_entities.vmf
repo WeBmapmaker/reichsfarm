@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7690"
-	"mapversion" "16"
+	"mapversion" "19"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "16"
+	"mapversion" "19"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"comment" "Decompiled by BSPSource v1.3.23 from reichswald"
@@ -95,8 +95,8 @@ entity
 {
 	"id" "3509098"
 	"classname" "water_lod_control"
-	"cheapwaterenddistance" "0"
-	"cheapwaterstartdistance" "0"
+	"cheapwaterenddistance" "2600"
+	"cheapwaterstartdistance" "2400"
 	"origin" "64 0 -64"
 	editor
 	{
@@ -223,7 +223,7 @@ entity
 	"id" "3509114"
 	"classname" "shadow_control"
 	"angles" "60 105 0"
-	"color" "144 144 144"
+	"color" "64 64 64"
 	"disableallshadows" "0"
 	"distance" "128"
 	"origin" "32 0 32"
@@ -265,14 +265,15 @@ entity
 	"id" "3509118"
 	"classname" "light_environment"
 	"_ambient" "196 184 216 90"
-	"_ambientHDR" "-1 -1 -1 1"
-	"_AmbientScaleHDR" "1"
+	"_ambientHDR" "196 184 216 90"
+	"_AmbientScaleHDR" "1.2"
 	"_light" "211 160 126 350"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
+	"_lightHDR" "211 160 126 350"
+	"_lightscaleHDR" "1.2"
 	"angles" "0 153 0"
 	"pitch" "-16"
-	"SpecularColor" "243 206 137"
+	"SpecularColor" "235 194 99"
+	"SunSpreadAngle" "8"
 	"origin" "0 0 -64"
 	editor
 	{
@@ -316,7 +317,7 @@ entity
 	"_lightscaleHDR" "1"
 	"angles" "0 153 0"
 	"pitch" "-70"
-	"SunSpreadAngle" "5"
+	"SunSpreadAngle" "8"
 	"origin" "64 0 32"
 	editor
 	{
@@ -412,8 +413,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[4.29391 -161.585 -33.6301]"
-		"look" "[143.944 4839.02 316.185]"
+		"position" "[-9.39476 -128.98 -45.6477]"
+		"look" "[538.538 4759.67 928.391]"
 	}
 }
 cordons
